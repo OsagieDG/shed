@@ -1,5 +1,4 @@
-# Switch Account Process (SAP)
-Switch Account Process (SAP) is a tool that allows you to easily switch between multiple GitHub accounts without the hassle of dealing with SSH keys.
+Shed is a tool that allows you to easily switch between multiple GitHub accounts without the hassle of dealing with SSH keys.
 
 - This tool is strictly global and does not alter the GitHub user settings within IDEs such as Visual Studio or JetBrains products.
 
